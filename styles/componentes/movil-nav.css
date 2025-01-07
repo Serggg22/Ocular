@@ -1,0 +1,36 @@
+.movil-nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    background-color: var(--clr-rose);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.movil-nav__menu{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.movil-nav__link{
+    font-size: var(--size-s);
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: -0.05em;
+    color: black;
+}
+
+.movil-nav__link:hover{
+    color: var(--clr-light);
+}
