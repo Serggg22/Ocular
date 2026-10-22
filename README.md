@@ -1,6 +1,6 @@
 # OCULAR
 
-Portfolio web con formato de galería, creado para una estudiante de diseño. Reúne su trabajo de fotografía y diseño en tres páginas:
+Proyecto de concepto: portfolio web con formato de galería para una estudiante de diseño. Es una prueba de diseño y maquetación, y organiza el trabajo de fotografía y diseño en tres páginas:
 
 - **Sobre mí:** presentación y galería de fotos
 - **Detrás de las texturas:** serie fotográfica
